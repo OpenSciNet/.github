@@ -8,7 +8,7 @@ OpenSciNet is a peer-to-peer infrastructure designed to democratize high-perform
 
 ## 🔬 The Vision
 
-Scientific progress is currently bottlenecked by the high cost and centralized nature of compute clusters. OpenSciNet breaks these silos by allowing anyone to contribute GPU/CPU power to a global "Neural Mesh," earning rewards while accelerating breakthroughs in:
+Scientific progress is currently bottlenecked by the high cost and centralized nature of compute clusters. OpenSciNet breaks these silos by allowing anyone to contribute GPU/CPU power to a global "Neural Mesh", earning rewards while accelerating breakthroughs in:
 
 - Artificial Intelligence: Large-scale model training and inference.
 - Bio-Data: Genomic sequencing and protein folding.
@@ -32,14 +32,14 @@ Smart Orchestration: An automated scheduler that matches research tasks to the m
 
 **We are currently in Stealth Development.**
 
-For Developers
+**For Developers**
 We are looking for contributors experienced in:
 
 - Rust / Go (Protocol Level)
 - CUDA / OpenCL (Compute Optimization)
 - libp2p (Networking)
 
-For Node Operators**
+**For Node Operators**
 
 Hardware requirements will be released soon. Generally, we will support:
 
@@ -47,8 +47,9 @@ Hardware requirements will be released soon. Generally, we will support:
 - Tier 2: Consumer GPUs (RTX 30/40 series)
 - Tier 3: CPU-only research validation nodes
 
-## 📄 License
+## 📄 License 
+![License: BSL 1.1](https://img.shields.io/badge/License-BSL%201.1-blue)
 
 This project is licensed under the Business Source License 1.1 - see the [LICENSE](https://scinet.xport.top/license.txt) file for details.
 
-*"Advancing science at the speed of the mesh."*
+*"Advancing science at the speed of the mesh"*
